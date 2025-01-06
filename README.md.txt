@@ -9,4 +9,4 @@ This repository contains Python code used for the analysis and construction of e
 - Plot and analyze portfolio performance.
 
 ## Usage
-To execute the analysis, run: python src/main.py
+To execute the analysis, run: python main.py
